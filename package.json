@@ -1,0 +1,56 @@
+{
+  "name": "reyolo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "axios": "^0.18.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.4",
+    "firebase": "^5.11.0",
+    "firebase-admin": "^7.3.0",
+    "firebase-functions": "^2.3.0",
+    "google-map-react": "^1.1.2",
+    "mysql": "^2.17.1",
+    "net-browserify": "^0.2.4",
+    "react": "^16.8.5",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-dom": "^16.8.5",
+    "react-redux": "^7.0.3",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "req-flash": "0.0.3"
+  },
+  "scripts": {
+    "start": "set PORT=4000 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanhpth27/reyolo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanhpth27/reyolo/issues"
+  },
+  "homepage": "https://github.com/hanhpth27/reyolo#readme"
+}
